@@ -1,0 +1,6 @@
+@article{REPO168,
+    author = "Xiong, Conghao and Chen, Hao and Zheng, Hao and Wei, Dong and Zheng, Yefeng and Sung, Joseph JY and King, Irwin",
+    journal = "arXiv preprint arXiv:2406.09696",
+    title = "{MoME: Mixture of Multimodal Experts for Cancer Survival Prediction}",
+    year = "2024"
+}
